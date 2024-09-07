@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\views\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\views\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\views\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\views\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|c:\\users\\jaque\\source\\repos\\padariadoluffy\\padariadoluffy\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB5B73-A827-47DD-90E5-F214A4300516}|PadariaDoLuffy\\PadariaDoLuffy.csproj|solutionrelative:padariadoluffy\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoesController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Views\\ProdutoesController.cs",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\Views\\ProdutoesController.cs",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Views\\ProdutoesController.cs",
+              "RelativeToolTip": "PadariaDoLuffy\\Views\\ProdutoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:27:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Views\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\Views\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Views\\CategoriasController.cs",
+              "RelativeToolTip": "PadariaDoLuffy\\Views\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:27:07.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\appsettings.json",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\appsettings.json",
+              "RelativeToolTip": "PadariaDoLuffy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T00:24:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Program.cs",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\Program.cs",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Program.cs",
+              "RelativeToolTip": "PadariaDoLuffy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:24:19.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "PadariaDoLuffy\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:18:19.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoesController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Controllers\\ProdutoesController.cs",
+              "RelativeDocumentMoniker": "PadariaDoLuffy\\Controllers\\ProdutoesController.cs",
+              "ToolTip": "C:\\Users\\jaque\\source\\repos\\PadariaDoLuffy\\PadariaDoLuffy\\Controllers\\ProdutoesController.cs",
+              "RelativeToolTip": "PadariaDoLuffy\\Controllers\\ProdutoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:17:31.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

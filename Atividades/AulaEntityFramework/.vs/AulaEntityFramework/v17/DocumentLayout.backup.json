@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|c:\\users\\jaque\\onedrive\\documentos\\banco de dados ii\\bancodedados224-main\\atividades\\aulaentityframework\\aulaentityframework\\views\\pessoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|solutionrelative:aulaentityframework\\views\\pessoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|c:\\users\\jaque\\onedrive\\documentos\\banco de dados ii\\bancodedados224-main\\atividades\\aulaentityframework\\aulaentityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|solutionrelative:aulaentityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|c:\\users\\jaque\\onedrive\\documentos\\banco de dados ii\\bancodedados224-main\\atividades\\aulaentityframework\\aulaentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|solutionrelative:aulaentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|c:\\users\\jaque\\onedrive\\documentos\\banco de dados ii\\bancodedados224-main\\atividades\\aulaentityframework\\aulaentityframework\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|solutionrelative:aulaentityframework\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|c:\\users\\jaque\\onedrive\\documentos\\banco de dados ii\\bancodedados224-main\\atividades\\aulaentityframework\\aulaentityframework\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252ED46D-FD90-40BF-824D-3B069C7B2DAB}|AulaEntityFramework\\AulaEntityFramework.csproj|solutionrelative:aulaentityframework\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Views\\Pessoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AulaEntityFramework\\Views\\Pessoas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Views\\Pessoas\\Create.cshtml",
+              "RelativeToolTip": "AulaEntityFramework\\Views\\Pessoas\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:46:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AulaEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AulaEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:30:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "AulaEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Program.cs",
+              "RelativeToolTip": "AulaEntityFramework\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:24:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AulaEntityFramework\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "AulaEntityFramework\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:15:11.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "AulaEntityFramework\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\Banco de dados II\\bancodedados224-main\\Atividades\\AulaEntityFramework\\AulaEntityFramework\\Models\\Endereco.cs",
+              "RelativeToolTip": "AulaEntityFramework\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:14:40.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
