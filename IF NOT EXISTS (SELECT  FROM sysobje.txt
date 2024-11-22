@@ -1,0 +1,11 @@
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'MEU_BLOG')
+BEGIN
+END
+GO
+
+CREATE DATABASE MEU_BLOG;
+
+Server=(localdb)\\MSSQLLocalDB;DataBase=MEU_BLOG;User ID=;Password=;
+Microsoft.EntityFrameworkCore.SqlServer
+
+converter o banco de dados da aviacao para sqlserver e depois criar o projeto no visual studio

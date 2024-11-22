@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|c:\\users\\jaque\\onedrive\\documentos\\bancoii\\atividades\\efdatabasefirst\\efdatabasefirst\\efdatabasefirst\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|solutionrelative:efdatabasefirst\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|c:\\users\\jaque\\onedrive\\documentos\\bancoii\\atividades\\efdatabasefirst\\efdatabasefirst\\efdatabasefirst\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|solutionrelative:efdatabasefirst\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|c:\\users\\jaque\\onedrive\\documentos\\bancoii\\atividades\\efdatabasefirst\\efdatabasefirst\\efdatabasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|solutionrelative:efdatabasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|c:\\users\\jaque\\onedrive\\documentos\\bancoii\\atividades\\efdatabasefirst\\efdatabasefirst\\efdatabasefirst\\efdatabasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{551500A7-8E24-410A-829F-1C2BC904D590}|EFDataBaseFirst\\EFDataBaseFirst.csproj|solutionrelative:efdatabasefirst\\efdatabasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:25:24.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:23:39.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFDataBaseFirst",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "RelativeToolTip": "EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T23:32:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaque\\OneDrive\\Documentos\\BancoII\\Atividades\\EFDatabaseFirst\\EFDataBaseFirst\\EFDataBaseFirst\\appsettings.json",
+              "RelativeToolTip": "EFDataBaseFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T23:25:35.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

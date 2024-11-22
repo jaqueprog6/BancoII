@@ -1,0 +1,9 @@
+FN + ESC pra funcionar 
+
+AeroportoDataBaseFirst": {
+    "ConnString": "Server=(localdb)\\MSSQLLocalDB;DataBase=AEROPORTO;User ID=;Password=;MultipleActiveResultSets=true;ConnectionTimeout=120;"
+
+O QUE VAI MUDAR É SO O NOME "AEROPORTODATA... E AREPORTO )
+
+CTRL +ASPAS '' abre o terminal
+shift + insert 
